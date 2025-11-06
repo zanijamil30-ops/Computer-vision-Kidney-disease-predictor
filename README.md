@@ -7,7 +7,8 @@ The application provides an interactive web interface where users can upload med
 
 ---
 
-![Uploading screenshot.jpeg…]()
+![screenshot](https://github.com/user-attachments/assets/e8279c8c-bf12-425b-b985-8fcadddcd2ac)
+
 
 
 ## 🚀 Features
