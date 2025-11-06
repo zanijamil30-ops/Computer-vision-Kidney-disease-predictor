@@ -7,6 +7,9 @@ The application provides an interactive web interface where users can upload med
 
 ---
 
+![Uploading screenshot.jpeg…]()
+
+
 ## 🚀 Features
 - 🧬 Deep learning–based kidney CT classification  
 - 🖼️ Image upload via a web UI built with HTML, CSS, and JavaScript  
