@@ -1,0 +1,41 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -----------------------------
+# IDEs & OS
+# -----------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Data & Models
+# -----------------------------
+uploads/
+models/*.h5
+models/*.hdf5
+*.h5
+*.hdf5
+
+# -----------------------------
+# Logs & caches
+# -----------------------------
+*.log
+*.tmp
+.cache/
