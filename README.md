@@ -21,6 +21,8 @@ The application provides an interactive web interface where users can upload med
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+```text
 Computer-vision-Kidney-disease-predictor/
 │
 ├─ models/                              # Stores model assets
@@ -45,7 +47,6 @@ Computer-vision-Kidney-disease-predictor/
 ├─ README.md                            # Project documentation and usage instructions
 ├─ kidney_tumor_code.py                 # (Optional) Additional model/code file for reference or training
 └─ requirements.txt                     # Python dependencies list
-
 
 ---
 
